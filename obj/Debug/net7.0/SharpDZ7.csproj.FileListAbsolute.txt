@@ -1,0 +1,15 @@
+D:\Sharp\SharpDZ7\bin\Debug\net7.0\SharpDZ7.exe
+D:\Sharp\SharpDZ7\bin\Debug\net7.0\SharpDZ7.deps.json
+D:\Sharp\SharpDZ7\bin\Debug\net7.0\SharpDZ7.runtimeconfig.json
+D:\Sharp\SharpDZ7\bin\Debug\net7.0\SharpDZ7.dll
+D:\Sharp\SharpDZ7\bin\Debug\net7.0\SharpDZ7.pdb
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.csproj.AssemblyReference.cache
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.AssemblyInfoInputs.cache
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.AssemblyInfo.cs
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.csproj.CoreCompileInputs.cache
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.dll
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\refint\SharpDZ7.dll
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.pdb
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\SharpDZ7.genruntimeconfig.cache
+D:\Sharp\SharpDZ7\obj\Debug\net7.0\ref\SharpDZ7.dll
