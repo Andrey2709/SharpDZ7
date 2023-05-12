@@ -1,5 +1,5 @@
 ﻿
-
+//47
 Random r = new Random();
 
 
@@ -15,7 +15,7 @@ int[,] randomTwoDimensionalArray(int n, int m){
     return arr;
 }
 
-
+//50
 void findToArray(int n, int m){
     int [,] arr = {{1,4,7,2},{5,9,2,3},{8,4,2,4}};
 
@@ -31,7 +31,7 @@ if(n>10 | m>3){
 findToArray(4,6);
 findToArray(0,0);
 
-
+//52
 int[,] arr2 = {{1,2,3},{4,5,6},{7,8,9}};
 
 // int index = arr2.GetUpperBound(0)+1;
